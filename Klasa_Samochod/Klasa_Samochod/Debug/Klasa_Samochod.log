@@ -1,0 +1,5 @@
+﻿  Klasa_Samochod.cpp
+C:\Users\mghej\Documents\Visual Studio 2019\Projects\Klasa_Samochod\Klasa_Samochod\Klasa_Samochod.cpp(8,41): warning C4305: "argument": obcięcie z "double" do "float"
+  Samochod.cpp
+  Generowanie kodu...
+  Klasa_Samochod.vcxproj -> C:\Users\mghej\Documents\Visual Studio 2019\Projects\Klasa_Samochod\Debug\Klasa_Samochod.exe
