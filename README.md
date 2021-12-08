@@ -1,1 +1,1 @@
-# To repozytorium zostało stworzone jako baza wszystkich mniejszych programów.
+# To repozytorium jest bazą wszystkich moich mniejszych programów.
