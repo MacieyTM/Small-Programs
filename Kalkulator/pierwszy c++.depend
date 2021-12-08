@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1628275078 source:c:\users\mghej\documents\codeblocks\pierwszy c++\main.cpp
+	<iostream>
+
+1628276961 source:c:\users\mghej\documents\codeblocks\kalkulator\main.cpp
+	<iostream>
+	<math.h>
+
