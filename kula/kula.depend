@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608407034 source:c:\users\mghej\documents\codeblocks\kula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1608410648 source:c:\users\mghej\documents\codeblocks\semestr i\kula\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

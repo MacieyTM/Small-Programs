@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607253105 source:c:\users\mghej\documents\codeblocks\projekt2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

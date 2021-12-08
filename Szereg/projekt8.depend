@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606203034 source:c:\users\mghej\documents\codeblocks\projekt8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1607249629 source:c:\users\mghej\documents\codeblocks\szereg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

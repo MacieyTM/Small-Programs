@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605112797 source:c:\users\mghej\documents\codeblocks\projekt4\main.c
+	<stdio.h>
+	<math.h>
+
+1605112797 source:c:\users\mghej\documents\codeblocks\równanie kwadratowe\main.c
+	<stdio.h>
+	<math.h>
+

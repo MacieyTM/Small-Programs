@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1608407160 source:c:\users\mghej\documents\codeblocks\cosdziwnego\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608579581 source:c:\users\mghej\documents\codeblocks\hextodecimal\main.c
+	<stdio.h>
+	<stdlib.h>
+
