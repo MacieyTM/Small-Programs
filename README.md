@@ -1,2 +1,1 @@
-# Small-Programs
-Includes almost everything I've ever done.
+# To repozytorium zostało stworzone jako baza wszystkich mniejszych programów.
