@@ -1,1 +1,1 @@
-# To repozytorium jest bazą wszystkich mniejszych programów.
+# To repozytorium zawiera mniejsze programy.
