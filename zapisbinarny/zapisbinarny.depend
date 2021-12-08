@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608019617 source:c:\users\mghej\documents\codeblocks\zapisbinarny\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

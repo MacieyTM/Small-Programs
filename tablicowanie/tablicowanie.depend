@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607410342 source:c:\users\mghej\documents\codeblocks\tablicowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+

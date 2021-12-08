@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608468316 source:c:\users\mghej\documents\codeblocks\zliczanie slow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
