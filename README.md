@@ -1,1 +1,1 @@
-# To repozytorium zawiera mniejsze programy.
+# To repozytorium zawiera programy ze studiów.
