@@ -1,4 +1,4 @@
-# Kalkulator z użyciem flexa (skaner oraz parser).
+# Kalkulator z użyciem flexa (skaner oraz parser)
 
 ## Aby odpalić program, należy pobrać pliki, a następnie zainstalować flexa oraz bisona wpisując w konsoli:
 ```
